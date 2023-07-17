@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Html (12:00 - 14:00)",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Go (18:00 - 20:00)",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "915044075",
+      "group": "Html (16:00 - 18:00)",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Mirzoali Fayzali",
+      "phone": "9181751715",
+      "group": "Javascript 1 (18:00 - 20:00)",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Pyton (16:00 - 18:00)",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Pyton (16:00 - 18:00)",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Html (12:00 - 14:00)",
+      "status": "Active",
+      "id": 7
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Go (18:00 - 20:00)",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Mirzoali Fayzali",
+      "phone": "9181751715",
+      "group": "Javascript 1 (18:00 - 20:00)",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Pyton (18:00 - 20:00)",
+      "status": "Active",
+      "id": 11
+    },
+    {
+      "img": "https://cdn.motor1.com/images/mgl/P33WYL/s1/ferrari-sp48-unica.webp",
+      "name": "Dilovar Karimov",
+      "phone": "9181751715",
+      "group": "Pyton (18:00 - 20:00)",
+      "status": "Inactive",
+      "id": 12
+    },
+    {
+      "img": "https://media.istockphoto.com/id/1146517111/photo/taj-mahal-mausoleum-in-agra.jpg?s=612x612&w=0&k=20&c=vcIjhwUrNyjoKbGbAQ5sOcEzDUgOfCsm9ySm- J8gNeRk=",
+      "name": "Abubakr",
+      "phone": "918105911",
+      "group": "Go (18:00 - 20:00)",
+      "status": "Active",
+      "id": 13
+    }
+  ]
+}

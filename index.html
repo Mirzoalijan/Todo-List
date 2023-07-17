@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./fontawesome-free-6.3.0-web/css/all.css">
+</head>
+
+<body class="body">
+    <div class="navbar">
+        <h1>Student</h1>
+        <div class="right">
+            <!-- <button class="btnAdd">+ Add New</button> -->
+            <!-- <button class="button2 btnAdd">
+                Hover me
+            </button> -->
+            <button type="button" class="button btnAdd">
+                <span class="button__text">Add Item</span>
+                <span class="button__icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" viewBox="0 0 24 24"
+                        stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor"
+                        height="24" fill="none" class="svg">
+                        <line y2="19" y1="5" x2="12" x1="12"></line>
+                        <line y2="12" y1="12" x2="19" x1="5"></line>
+                    </svg></span>
+            </button>
+            <button class="btn light"> Light
+            </button>
+            <button class="btn dark"> Dark
+            </button>
+        </div>
+    </div>
+    <div class="navbar2">
+        <form class="form1">
+            <input type="text" name="srch" class="input" placeholder="Search....">
+            <select name="" id="select" class="input2">
+                <option value="Allgroup">Allgroup</option>
+                <option value="Javascript">Javascript</option>
+                <option value="Pyton">Pyton</option>
+                <option value="Html">Html</option>
+                <option value="Go">Go</option>
+            </select>        
+            <select name="" id="select2" class="input2">
+            <option value="Allstatus">Allstatus</option>
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+        </form>
+
+        <dialog class="modal">
+            <span class="close2">&times;</span>
+            <form class="form2">
+                <input name="url" placeholder="Url">
+                <input name="name" placeholder="Name">
+                <input name="phone" placeholder="Phone">
+                <input name="group" placeholder="Group">
+                <input name="status" placeholder="Status">
+                <button type="submit">ADD</button>
+                <button type="submit" class="Canel">Canel</button>
+            </form>
+        </dialog>
+        <dialog class="modal2">
+            <span class="close">&times;</span>
+            <form class="form3">
+                <input name="url" placeholder="Url">
+                <input name="name" placeholder="Name">
+                <input name="phone" placeholder="Phone">
+                <input name="group" placeholder="Group">
+                <input name="status" placeholder="Status">
+                <button type="submit">ADD</button>
+                <button type="submit">Canel</button>
+            </form>
+        </dialog>
+
+    </div>
+    <div class="box">
+
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./js/APP.js" type="module"></script>
+</body>
+
+</html>
